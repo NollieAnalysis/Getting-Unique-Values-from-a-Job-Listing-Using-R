@@ -48,6 +48,11 @@ Make sure you have these packages installed in your R environment to execute the
 
 These functions are used for various tasks such as data import, manipulation, reshaping, cleaning, and export.
 
+# Project deliverables:
+
+First save job listing as a csv file and then use below code to get a clean list of unique values saved as another csv file.
+
+
 
 
 

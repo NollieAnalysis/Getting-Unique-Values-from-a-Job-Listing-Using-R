@@ -88,3 +88,12 @@ no_duplicates
 # Export final data frame to CSV
 file.path <- ".csv"  # name output file
 write.csv(no_duplicates, file = file.path, row.names = FALSE)
+```
+
+# csv file before
+
+![csv before](https://github.com/NollieAnalysis/Getting-Unique-Values-from-a-Job-Listing-Using-R/assets/163913188/c13e175b-64d6-4ffc-afad-646b3c7943a9)
+
+# csv file after
+
+![csv after](https://github.com/NollieAnalysis/Getting-Unique-Values-from-a-Job-Listing-Using-R/assets/163913188/469eedec-3695-46b5-bffd-bf846dcf76d3)
